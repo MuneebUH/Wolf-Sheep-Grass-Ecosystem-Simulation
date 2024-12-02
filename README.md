@@ -41,4 +41,4 @@ pip install numpy matplotlib ipywidgets
 5. **View the population dynamics plot** generated at the end of the simulation.
 
 
-![Population Dynamics Plot](population_dynamics.png "Population Dynamics Over Time")
+![Population Dynamics Plot](population_dynamics_iter1.png "Population Dynamics Over Time")
