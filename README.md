@@ -22,7 +22,6 @@ This project simulates a dynamic ecosystem of wolves, sheep, and grass. It allow
 
 Install dependencies using pip:
 
-```bash
 pip install numpy matplotlib ipywidgets
 
 
